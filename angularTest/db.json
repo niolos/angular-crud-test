@@ -1,0 +1,68 @@
+{
+  "productsList": [
+    {
+      "productName": "samaung tab2",
+      "category": "Electronics",
+      "quality": "refurbished",
+      "price": 500,
+      "date": "2022-02-17T05:00:00.000Z",
+      "comment": "its not too bad",
+      "id": 5
+    },
+    {
+      "productName": "samsung",
+      "category": "Electronics",
+      "quality": "Second Hand",
+      "price": 1000,
+      "date": "2022-02-03T05:00:00.000Z",
+      "comment": "jus drop",
+      "id": 6
+    },
+    {
+      "productName": "lenova10",
+      "category": "Electronics",
+      "quality": "Second Hand",
+      "price": 6,
+      "date": "2022-02-03T05:00:00.000Z",
+      "comment": "was a mistake with this one",
+      "id": 9
+    },
+    {
+      "productName": "chu",
+      "category": "Electronics",
+      "quality": "Second Hand",
+      "price": 6,
+      "date": "2022-02-03T05:00:00.000Z",
+      "comment": "was a mistake with this one",
+      "id": 10
+    },
+    {
+      "productName": "apple ",
+      "category": "Electronics",
+      "quality": "Second Hand",
+      "price": 1000,
+      "date": "2022-02-21T05:00:00.000Z",
+      "comment": "meh",
+      "id": 11
+    },
+    {
+      "productName": "laptop",
+      "category": "Clothing",
+      "quality": "Second Hand",
+      "price": 132222,
+      "date": "2022-03-10T05:00:00.000Z",
+      "comment": "good",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
